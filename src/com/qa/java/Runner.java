@@ -1,7 +1,7 @@
 package com.qa.java;
 
-import basicclasses.Book;
-import basicclasses.Person;
+import com.qa.java.basicclasses.Book;
+import com.qa.java.basicclasses.Person;
 
 public class Runner {
 
